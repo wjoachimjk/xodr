@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+fiona
+pyproj
+lxml
+python-multipart  # Required for FastAPI's UploadFile
+# The other standard libraries (os, shutil, math, zipfile, datetime, sys) are built-in.
